@@ -1,4 +1,3 @@
 # fullstack post app
 
 A simple CRUD App that reads input and posts it to a mongoDB cluster.
-https://pure-forest-10960.herokuapp.com/
