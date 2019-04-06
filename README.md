@@ -1,4 +1,4 @@
-# fullstack post app
+# Fullstack posting board application
 
 A simple CRUD App that reads input and posts it to a mongoDB cluster.
 
